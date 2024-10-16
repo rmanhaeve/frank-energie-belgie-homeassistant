@@ -1,0 +1,10 @@
+{
+  "domain": "frank_energie_belgie",
+  "name": "Frank Energie Belgie",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/rmanhaeve/frank-energie-belgie-homeassistant/",
+  "iot_class": "cloud_polling",
+  "requirements": ["python-dateutil", "requests", "pytz"],
+  "version": "0.1.0"
+}
